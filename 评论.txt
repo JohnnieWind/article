@@ -1,0 +1,42 @@
+雪踏乌云
+@Pluvio9yte
+Translated from Chinese
+中文翻译
+节目原版
+After using Fable-5 for two days, I arrived at a conclusion that's completely opposite to what most people are saying. Here's my actual hands-on experience:
+使用了两天的《寓言5》，我得出了一个与大多数人说法完全相反的结论。这是我实际的实践体验：
+
+Speed: Extremely slow, especially during the initial analysis and planning phases—it feels like a turtle crawling at a snail's pace.
+速度：极其缓慢，尤其是在初期分析和计划阶段——感觉像一只蜗牛爬行的。
+
+Price: I'm a Max5 subscriber. While the input/output pricing is double that of Opus, the actual consumption isn't flowing out like water. The consumption rate has indeed sped up, but once it hits the cache, it doesn't spike particularly high. It's nowhere near as outrageously fast as what some folks are claiming.
+价格：我是 Max5 订阅者。虽然投入/产出定价是 Opus 的两倍，但实际消费并非像流水一样流失。消耗速度确实加快了，但一旦进入缓存，也不会特别高。它远没有一些人声称的那么快。
+
+So, the only three possibilities for all the hype about it being insanely fast on consumption are:
+First, Pro subscription accounts just have inherently small capacity to begin with;
+Second, they're just making stuff up without their own account;
+Third, they never really noticed Opus's consumption speed before, then saw others saying Fable guzzles resources, tried it themselves, saw it was faster, and assumed it's truly that fast. Opus itself is already super fast on consumption anyway—now it's just about 1.5x the original.
+所以，关于它消耗极快的炒作只有三种可能：
+首先，Pro 订阅账户本身容量就很小;
+其次，他们只是在没有自己账号的情况下编造事实;
+第三，他们之前从没真正注意到欧普斯的消耗速度，后来看到别人说《寓言》消耗资源，自己试了试，发现它更快，就以为真的那么快。Opus 本身的消费速度本来就非常快——现在它的速度大约是原版的 1.5 倍。
+
+For me, I usually only use Opus, so this 1.x times Opus-level consumption is totally acceptable. In actual use, I recommend tweaking the cache rebuild to 1 hour.
+对我来说，我通常只用 Opus，所以这 1.x 倍的 Opus 级别消费完全可以接受。实际使用时，我建议将缓存重建时间调到 1 小时。
+
+Capabilities: The strength shows in broader thinking boundaries and stronger architectural abilities.
+For frontend capability tests, there's definitely a big improvement, especially in creativity. When it actually lands in engineering projects, my gut feeling is that it can truly spot GPT-5.5's issues now—I won't blindly assume GPT's analysis is always right like before.
+能力：优势体现在更广泛的思维边界和更强的架构能力上。
+前端能力测试确实有很大提升，尤其是在创造力方面。当它真正应用于工程项目时，我的直觉是它现在能真正发现 GPT-5.5 的问题——我不会像以前那样盲目假设 GPT 的分析总是正确的。
+
+Actual capabilities feel like a combo of Claude Opus4.6++ and GPT-5.5++, but it hasn't reached a truly jaw-dropping level yet.
+实际功能感觉像是 Claude Opus4.6++和 GPT-5.5++的结合，但还没有达到令人瞠目结舌的水平。
+
+Considering the price and the fact that it'll be gone after June 22, I have no plans to upgrade to Max20. Max5 + GPT-5.5, or even the upcoming 5.6, feels completely sufficient. I also recommend everyone consume rationally. If you want to try pay-per-use, check the comments section.
+考虑到价格和 6 月 22 日后它会停产，我没打算升级到 Max20。Max5 + GPT-5.5，甚至即将推出的 5.6，都感觉完全足够了。我也建议大家理性地消费。如果你想尝试按次付费，请查看评论区。
+
+Finally, here's a quick frontend effect I built last night with Fable. As for why I'm doing frontend even after griping about it before—it's because I need to go viral on Douyin and Xiaohongshu too. Humans are visual creatures, and frontend is the hook that grabs attention right from the start.
+最后，这是我昨晚用 Fable 快速制作的一个前端效果。至于我之前抱怨过为什么还要做前端——是因为我也需要在抖音和小红书上爆红。人类是视觉动物，前端是从一开始就吸引注意力的关键。
+
+Video below, website deployed on Vercel address in the comments—feel free to check it out yourselves.
+下面有视频，Vercel 网站上的网站地址在评论区——欢迎大家自己去看看。
